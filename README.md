@@ -1,6 +1,6 @@
 # you_suck_at_cooking_yt
 
-A new Flutter project.
+It's a dumb app which pulls data and stuff
 
 ## Getting Started
 
